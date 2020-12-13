@@ -3,9 +3,9 @@ Repo of my Python Script that extracts stock data, puts into a CSV and then send
 
 Steps to execute files:
 
-1. Please download both files
+1. Please download both files.
 
-2.Enter in your personal info in the send_mail.py script
+2.Enter in your personal info in the send_mail.py script in order to run the code, you have to fill out missing sections.
 
 3. You can edit the Stocks urls by just pasting any yahoo finance stock url
 
